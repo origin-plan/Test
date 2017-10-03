@@ -1,3 +1,3 @@
 # Test
 
-https://origin-plan.github.io/Test/Test.json
+https://origin-plan.github.io/Test/index.html
